@@ -1,0 +1,18 @@
+
+corg.gradle.sample.utilities.StringUtils#join(Lorg/gradle/sample/list/LinkedList;)Ljava/lang/String;ù
+í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java ("1*ø
+1ù
+í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (‹
+Ÿ
+ù
+í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (%
+%0java.lang.String"aorg.gradle.sample.utilities.JoinUtils#join(Lorg/gradle/sample/list/LinkedList;)Ljava/lang/String;*"
+	!Unknown!*-
++
+source!org.gradle.sample.list.LinkedList"∫
+ù
+í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (&
+
+%0java.lang.String:+
+source!org.gradle.sample.list.LinkedListB+")
+'org.gradle.sample.utilities.StringUtils

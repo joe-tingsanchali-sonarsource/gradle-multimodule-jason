@@ -1,0 +1,54 @@
+
+xorg.gradle.sample.list.LinkedList#tail(Lorg/gradle/sample/list/LinkedList$Node;)Lorg/gradle/sample/list/LinkedList$Node;’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java ("5*¨
+2’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java< (>†
+ƒ
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java< (C,
+%1&org.gradle.sample.list.LinkedList$Node"__id*8*6
+,
+it&org.gradle.sample.list.LinkedList$Node"
+nextü
+ù
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java7 (C,
+it&org.gradle.sample.list.LinkedList$Node"__id*.
+,
+%1&org.gradle.sample.list.LinkedList$Node*
+3
+1*©
+3’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java& ((†
+ƒ
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java& (-,
+%0&org.gradle.sample.list.LinkedList$Node"__id*8*6
+,
+it&org.gradle.sample.list.LinkedList$Node"
+next*
+2
+1*ø
+5’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java (Ô
+Ñ
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java (,
+it&org.gradle.sample.list.LinkedList$Node"__id*
+""þ
+û
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java (,
+it&org.gradle.sample.list.LinkedList$Node"__id*0
+.
+head&org.gradle.sample.list.LinkedList$Node*
+3
+1*à
+1’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java ("Å
+’
+‡/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/list/src/main/java/org/gradle/sample/list/LinkedList.java (.
+,
+it&org.gradle.sample.list.LinkedList$Node:.
+head&org.gradle.sample.list.LinkedList$NodeB%"#
+!org.gradle.sample.list.LinkedList
