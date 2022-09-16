@@ -4,6 +4,7 @@ public class LinkedList {
     private Node head;
 
     public void add(String element) {
+        System.out.println("hey over here");
         Node newNode = new Node(element);
 
         Node it = tail(head);
