@@ -1,18 +1,42 @@
 
-corg.gradle.sample.utilities.StringUtils#join(Lorg/gradle/sample/list/LinkedList;)Ljava/lang/String;ù
-í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java ("1*ø
-1ù
-í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (‹
-Ÿ
-ù
-í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (%
-%0java.lang.String"aorg.gradle.sample.utilities.JoinUtils#join(Lorg/gradle/sample/list/LinkedList;)Ljava/lang/String;*"
-	!Unknown!*-
-+
-source!org.gradle.sample.list.LinkedList"∫
-ù
-í/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/StringUtils.java (&
-
-%0java.lang.String:+
-source!org.gradle.sample.list.LinkedListB+")
-'org.gradle.sample.utilities.StringUtils
+)org.gradle.sample.list.LinkedList#size()Ip
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java0 0("4*ø
+2p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java3+ 3(/„
+‡
+p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java36 3(=,
+%1&org.gradle.sample.list.LinkedList$Node"__id*8*6
+,
+it&org.gradle.sample.list.LinkedList$Node"
+nextŸ
+÷
+p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java31 3(=,
+it&org.gradle.sample.list.LinkedList$Node"__id*.
+,
+%1&org.gradle.sample.list.LinkedList$Node*
+2
+1*∂
+4p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java1 1(⁄
+◊
+p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java3 3(,
+%0&org.gradle.sample.list.LinkedList$Node"__id*/*-#
+!org.gradle.sample.list.LinkedList"
+headŸ
+÷
+p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java3 3(,
+it&org.gradle.sample.list.LinkedList$Node"__id*.
+,
+%0&org.gradle.sample.list.LinkedList$Node*
+2
+1*Ò
+1p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java5 5("z
+p
+f/Users/jting/Projects/gradle-multimodule-all/list/src/main/java/org/gradle/sample/list/LinkedList.java5 5(
+""B%#
+!org.gradle.sample.list.LinkedList

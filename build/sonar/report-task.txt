@@ -1,6 +1,7 @@
-projectKey=gradle-multimodule
-serverUrl=https://ee793.jting.us.ngrok.io
-serverVersion=7.9.3.33349
-dashboardUrl=https://ee793.jting.us.ngrok.io/dashboard?id=gradle-multimodule
-ceTaskId=AXa5d0oh77dQsxHWi4xb
-ceTaskUrl=https://ee793.jting.us.ngrok.io/api/ce/task?id=AXa5d0oh77dQsxHWi4xb
+projectKey=gradle-mm-jason-list
+serverUrl=https://ee89-jting-us.ngrok.io
+serverVersion=8.9.6.50800
+branch=main
+dashboardUrl=https://ee89-jting-us.ngrok.io/dashboard?id=gradle-mm-jason-list&branch=main
+ceTaskId=AYNHDG-o3gxTLIECBJqS
+ceTaskUrl=https://ee89-jting-us.ngrok.io/api/ce/task?id=AYNHDG-o3gxTLIECBJqS
