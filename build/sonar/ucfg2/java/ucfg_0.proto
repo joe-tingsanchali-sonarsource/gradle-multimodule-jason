@@ -1,82 +1,9 @@
 
-aorg.gradle.sample.utilities.JoinUtils#join(Lorg/gradle/sample/list/LinkedList;)Ljava/lang/String;õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java ("7*»
-3õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (¥±
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java ('
-%5java.lang.String":org.gradle.sample.list.LinkedList#get(I)Ljava/lang/String;*-
-+
-source!org.gradle.sample.list.LinkedList*
-""2get(I)ËÂ
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java ((
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-
-%5java.lang.String2append(Ljava/lang/String;)*
-6*˛
-4õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java
- 
-(’“
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java
- 
-("
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- 2append(Ljava/lang/String;)*
-3*≤
-5õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java	 	(ÜÉ
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java	 	(	
-%3int")java.lang.AbstractStringBuilder#length()I*#
-!
-resultjava.lang.StringBuilder2length()*
-3
-4*∫
-6õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (éã
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java ()	
-%2int")org.gradle.sample.list.LinkedList#size()I*-
-+
-source!org.gradle.sample.list.LinkedList2size()*
-5
-1*ﬁ
-7õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (2Ÿ÷
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java# (0
-%0java.lang.StringBuilder"java.lang.StringBuilderÎ
-Ë
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (2
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderÎ
-Ë
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (3!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-6*ˇ
-1õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (†ù
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java ( 
-%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"∏
-õ
-ê/Users/jting/Downloads/sample_jvm_multi_project_with_code_coverage-groovy-dsl/utilities/src/main/java/org/gradle/sample/utilities/JoinUtils.java (!
-
-%7java.lang.String:+
-source!org.gradle.sample.list.LinkedListB)"'
-%org.gradle.sample.utilities.JoinUtils
+Aorg.gradle.sample.app.MessageUtils#getMessage()Ljava/lang/String;x
+n/Users/jting/Projects/gradle-multimodule-all/application/src/main/java/org/gradle/sample/app/MessageUtils.java (#"1*í
+1x
+n/Users/jting/Projects/gradle-multimodule-all/application/src/main/java/org/gradle/sample/app/MessageUtils.java (#"í
+x
+n/Users/jting/Projects/gradle-multimodule-all/application/src/main/java/org/gradle/sample/app/MessageUtils.java ($
+Hello,      World!B&"$
+"org.gradle.sample.app.MessageUtils

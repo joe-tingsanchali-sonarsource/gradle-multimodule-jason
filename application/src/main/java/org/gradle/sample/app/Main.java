@@ -11,5 +11,7 @@ public class Main {
         LinkedList tokens;
         tokens = split(getMessage());
         System.out.println(join(tokens));
+
+        System.out.println("whatsup jason");
     }
 }
